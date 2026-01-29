@@ -26,9 +26,9 @@ Tools and technologies used throughout two decades of professional career.
 
 #### 🏢 Business & System Domain:
 Solid knowledge of large-scale corporate ecosystems and legacy systems.
-![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
-![Telecom](https://img.shields.io/badge/Telecom-Billing-orange?style=for-the-badge)
 ![CRM](https://img.shields.io/badge/CRM-Salesforce%20%7C%20Siebel-lightgrey?style=for-the-badge)
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![Telecom Billing](https://img.shields.io/badge/Telecom%20Billing-%23444444.svg?style=for-the-badge&logo=tower&logoColor=white)
 
 ---
 
