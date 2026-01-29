@@ -16,6 +16,8 @@ With over 20 years of experience in IT, I have specialized in leading Quality an
 Enhancing programming logic and automation architecture (generic & testing).
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-%23000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
 #### 🧪 Hands-on Project Experience:
 Tools and technologies used throughout two decades of professional career.
